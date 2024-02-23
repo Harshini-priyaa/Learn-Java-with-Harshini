@@ -7,10 +7,16 @@
   Where System -> Standard class of Java
         out -> object to display output
         println -> method to print the statement
+
   */
 
 public class helloworld{
     public static void main(String[] args){
         System.out.println("Hello World!");
+        // Not only for hello world which is string even for printing numbers we do follow the same syntax
+        System.out.println(8);
+       
+
     }
 }
+
