@@ -11,8 +11,13 @@
   */
 
 public class helloworld{
-    public static void main(String[] args){
-        System.out.println("Hello World!");
+   /* Every java file must contain a main() method from which every other methods are invoked
+      Siganature of the main method is that -> public static void main(String[] args) 
+      that accepts single argument => array of elemets od type string
+     */
+  public static void main(String[] args){
+      // each statement in java gets terminated with a semicolon
+        System.out.println("Hello World!"); 
         // Not only for hello world which is string even for printing numbers we do follow the same syntax
         System.out.println(8);
        
