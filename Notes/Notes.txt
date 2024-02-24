@@ -10,3 +10,5 @@ A Java file has a naming convention that the file should be saved with the name 
 A Java file holds the extension ".java"
 To compile a java code the command to be used is -> "javac filename.java"
 And if the code gets compiled without any error then you can compile with the command -> "java filename"
+In java commenting can be used -> single line comment => //
+                               -> multiline comment => /* */
