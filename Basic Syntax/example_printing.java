@@ -8,6 +8,10 @@
   There is also an exciting thing in this we can also do arthemetic operations in this print statement
  */
 
+ /*
+   This "System.out.println()" is the statement that prints the statements preceeding in new line => "ln" represents new line
+   Whereas the "System.out.print()" is the statement used to print things in the same line
+  */
 public class example_printing {
     public static void main(String[] args) {
         //Addition
@@ -20,5 +24,6 @@ public class example_printing {
         System.out.println(22/2);
         //Modulus
         System.out.println(10 % 5);
+        //Example of "System.out.print()" statement
     }
 }
