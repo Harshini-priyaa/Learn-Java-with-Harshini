@@ -25,5 +25,8 @@ public class example_printing {
         //Modulus
         System.out.println(10 % 5);
         //Example of "System.out.print()" statement
+
+        System.out.print("This is an example of System.out.print() function");
+        System.out.print("  I got printed in the same line");
     }
 }
