@@ -35,5 +35,8 @@ public class example_printing {
          */
         //Example
         System.out.println("My favourite number is " + 2);
+        //as discussed earlier we can perform arthemetic operation in the same way
+        System.out.println("The addition of 3 and 8 is " + (3 + 9));// here the first "+" is used for concatination and second one is used as addition operator
+        
     }
 }
