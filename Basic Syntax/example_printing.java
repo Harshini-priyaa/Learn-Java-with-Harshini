@@ -28,5 +28,12 @@ public class example_printing {
 
         System.out.print("This is an example of System.out.print() function");
         System.out.print("  I got printed in the same line");
+
+        /*
+          This print function can also used to print the both text and numbers on the same line 
+          for concatinating "+" operator is used
+         */
+        //Example
+        System.out.println("My favourite number is " + 2);
     }
 }
