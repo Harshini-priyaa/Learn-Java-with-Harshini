@@ -10,6 +10,10 @@ A Java file has a naming convention that the file should be saved with the name 
 A Java file holds the extension ".java"
 To compile a java code the command to be used is -> "javac filename.java"
 And if the code gets compiled without any error then you can compile with the command -> "java filename"
+Comments will not show up in the printing screen they are just written for the human understanding
 In java commenting can be used -> single line comment => //
                                -> multiline comment => /* */
-                               -> for javadoc(used while using API's) => /** */
+                               -> for javadoc(used while creating documentation for API's) => /** */
+Javadoc comments are used before declaration of fields, methods and classes
+In java semicolons are used to indicate the end of the statement 
+In java whitespaces are all allowed  whitespaces, newlines between statements are also allowed
