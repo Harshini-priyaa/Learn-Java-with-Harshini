@@ -12,3 +12,4 @@ To compile a java code the command to be used is -> "javac filename.java"
 And if the code gets compiled without any error then you can compile with the command -> "java filename"
 In java commenting can be used -> single line comment => //
                                -> multiline comment => /* */
+                               -> for javadoc(used while using API's) => /** */
