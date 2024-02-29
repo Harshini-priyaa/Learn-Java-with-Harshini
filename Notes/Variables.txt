@@ -1,0 +1,9 @@
+So far on learning something on the basic of Java lets get into an important concept called "VARIABLES"
+Variables are just a container to store out things in programming !
+Imagine you have 10 chocolates and you want to store them in a fridge and your mom gives you a box to put them on
+The box your mom gave is the storage space to store the chocolates you have.
+It is same concept applied in programming to store values!
+Contrasting this example with the concept of variables:
+   BOX your Mom gave => Variable 
+   chocolates you have => value
+It is something like "chocolate_box = 10"
