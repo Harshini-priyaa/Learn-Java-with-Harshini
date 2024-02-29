@@ -7,3 +7,4 @@ Contrasting this example with the concept of variables:
    BOX your Mom gave => Variable 
    chocolates you have => value
 It is something like "chocolate_box = 10"
+There are  something called "DATA TYPES" to declare these variables
