@@ -24,6 +24,8 @@ public class example_printing {
         System.out.println(22/2);
         //Modulus
         System.out.println(10 % 5);
+      
+        System.out.println((((10 - 8) + 16) * 12 ) /2 );
         //Example of "System.out.print()" statement
 
         System.out.print("This is an example of System.out.print() function");
