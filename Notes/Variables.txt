@@ -17,3 +17,4 @@ Some of the data types that are supported by Java are:
     5. Character
     6. Boolean
     7. String
+Declaration of a variable looks like => int num = 10;
