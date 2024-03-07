@@ -9,12 +9,13 @@ Contrasting this example with the concept of variables:
 It is something like "chocolate_box = 10"
 There are  something called "DATA TYPES" to declare these variables
 So each and every variabes based on its preferance has seperate data TYPES
-Some of the data types that are supported by Java are:
-    1. Integer
-    2. Long
-    3. Float
-    4. Double
-    5. Character
-    6. Boolean
-    7. String
+Some of the data types that are supported by Java are:   
+       TYPE           KEYWORD
+    1. Integer        int
+    2. Long           long
+    3. Float          float
+    4. Double         double
+    5. Character      char
+    6. Boolean        boolean
+    7. String         String
 Declaration of a variable looks like => int num = 10;
