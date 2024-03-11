@@ -1,0 +1,7 @@
+The compilation process in java takes place in a diffrent manner
+As we have already discussed the compilation of java takes place in 2 steps 
+first -> to compile => javac filename.java
+then -> to run the code => java filename
+
+This accounts to the meaning that the file written in .java extension is transformed to byte code then in runs in the JVM
+A sucessful compilation will produce a .class file!
