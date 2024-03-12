@@ -5,3 +5,4 @@ then -> to run the code => java filename
 
 This accounts to the meaning that the file written in .java extension is transformed to byte code then in runs in the JVM
 A sucessful compilation will produce a .class file!
+An unsuccessful file produces error
