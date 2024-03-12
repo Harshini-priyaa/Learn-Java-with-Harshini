@@ -6,3 +6,8 @@ then -> to run the code => java filename
 This accounts to the meaning that the file written in .java extension is transformed to byte code then in runs in the JVM
 A sucessful compilation will produce a .class file!
 An unsuccessful file produces error
+
+Here for an example :
+  we have  a .java file called helloworld.java 
+  which when compiled gives another file called helloworld.class -> succesful compilation
+  If there occures any mistake then the file will show some error
