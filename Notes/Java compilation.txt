@@ -1,3 +1,4 @@
+Compilers catch mistakes in our code and it transforms the code to executable manner
 The compilation process in java takes place in a diffrent manner
 As we have already discussed the compilation of java takes place in 2 steps 
 first -> to compile => javac filename.java
@@ -11,3 +12,5 @@ Here for an example :
   we have  a .java file called helloworld.java 
   which when compiled gives another file called helloworld.class -> succesful compilation
   If there occures any mistake then the file will show some error
+
+In java each class is a real world task

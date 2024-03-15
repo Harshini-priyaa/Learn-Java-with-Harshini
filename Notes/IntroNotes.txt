@@ -18,3 +18,7 @@ Javadoc comments are used before declaration of fields, methods and classes
 In java semicolons are used to indicate the end of the statement 
 In java whitespaces are all allowed  whitespaces, newlines between statements are also allowed
 Java is a compiled programming language it transforms the .java code written to a byte code first before it gets excecuted at the JVM
+Java has whitespaces, semicolons and braces
+    whitespaces => for human to easily understand the code
+    Curly braces => to mark end of scope
+    semicolons => to  mark end of a statement
