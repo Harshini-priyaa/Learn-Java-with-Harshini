@@ -5,4 +5,8 @@ But to take a input?
    Similarly to instanciate a scanner object => "Scanner read = new Scanner(System.in);"
    Here the "System.in" is specified hence the line object is capable of reading an input.
 
-This Scanner class is the most easiest way to take an input 
+This Scanner class is the most easiest way to take an input!!
+
+This scanner object read can be used with any method to read any kind of variable
+
+For integer => nextInt(); [eg: int num  = read.nextInt()]
