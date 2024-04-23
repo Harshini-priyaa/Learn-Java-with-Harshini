@@ -19,3 +19,5 @@ Some of the data types that are supported by Java are:
     6. Boolean        boolean
     7. String         String
 Declaration of a variable looks like => int num = 10;
+Java has a inbuilt datatype to store string values
+Declaration of a string looks like => string fruit = "apple";
