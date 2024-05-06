@@ -5,5 +5,9 @@ public class Variables{
         System.out.println(num);
         //We can also perform arthemetic operations as we did earlier
         System.out.println(num + 22);
+        //square of a number
+        System.out.println(num * num);
+        //Cube of a number
+        System.out.println(num*num*num);
     }
 }
