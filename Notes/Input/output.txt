@@ -10,3 +10,5 @@ This Scanner class is the most easiest way to take an input!!
 This scanner object read can be used with any method to read any kind of variable
 
 For integer => nextInt(); [eg: int num  = read.nextInt()]
+
+The readed integer or a variable can be used for performing multiple operations
