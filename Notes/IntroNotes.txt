@@ -2,21 +2,21 @@ Java was first found by the "SUN MICROSYSTEMS" in the year 1991
 Now Java is owned by the "ORACLE" 
 It is one of the highly secure languages available
 Java can also be used in the development of embedded systems as the versions of Java above 8 have more inbuilt libraries
-Java is a robust and platform-independent language that can work with any OS like Windows,MAC, Linux
+Java is a robust and platform-independent language that can work with any OS like Windows, MAC, Linux
 Java is the most used for the backend side in web development as well as it is used in the development of most of the applications
 As the Java only needs the JVM(Java Virtual Machine) to run its code
 The Java compiler will run the Java code in JVM
 A Java file has a naming convention that the file should be saved with the name of the class written in the file
 A Java file holds the extension ".java"
-To compile a java code the command to be used is -> "javac filename.java"
+To compile a Java code the command to be used is -> "javac filename.java"
 And if the code gets compiled without any error then you can compile with the command -> "java filename"
 Comments will not show up on the printing screen they are just written for human understanding
 In java commenting can be used -> single line comment => //
                                -> multiline comment => /* */
                                -> for Javadoc(used while creating documentation for API's) => /** */
 Javadoc comments are used before the declaration of fields, methods and classes
-In Java semicolons are used to indicate the end of the statement 
-In Java whitespaces are all allowed  whitespaces, and newlines between statements are also allowed
+In Java, semicolons are used to indicate the end of the statement 
+In Java, whitespaces are all allowed  whitespaces, and newlines between statements are also allowed
 Java is a compiled programming language it transforms the .java code written to a byte code first before it gets excecuted at the JVM
 Java has whitespaces, semicolons and braces
     whitespaces => for a human to easily understand the code
