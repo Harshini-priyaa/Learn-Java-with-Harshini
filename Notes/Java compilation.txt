@@ -1,16 +1,16 @@
-Compilers catch mistakes in our code and transforms the code to an executable manner
-The compilation process in java takes place in a different manner
-As we have already discussed the compilation of java takes place in 2 steps 
+Compilers catch mistakes in our code and transform the code into an executable manner
+The compilation process in Java takes place in a different manner
+As we have already discussed the compilation of Java takes place in 2 steps 
 first -> to compile => javac filename.java
 then -> to run the code => java filename
 
-This accounts to the meaning that the file written in the .java extension is transformed to byte code then in runs in the JVM
-A sucessful compilation will produce a .class file!
-An unsuccessful file produces error
+This accounts for the meaning that the file written in the .java extension is transformed to byte code and then in runs in the JVM
+A successful compilation will produce a .class file!
+An unsuccessful file produces an error
 
-Here for an example :
+Here is an example :
   we have  a .java file called helloworld.java 
   which when compiled gives another file called helloworld.class -> succesful compilation
-  If there occures any mistake then the file will show some error
+  If there occurs any mistake then the file will show some error
 
 In java each class is a real world task that has real world entities called objects
