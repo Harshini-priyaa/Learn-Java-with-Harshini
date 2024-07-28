@@ -10,7 +10,7 @@ An unsuccessful file produces an error
 
 Here is an example :
   we have  a .java file called helloworld.java 
-  which when compiled gives another file called helloworld.class -> succesful compilation
-  If there occurs any mistake then the file will show some error
+  which when compiled gives another file called helloworld.class -> successful compilation
+  If occurs any mistake then the file will show some error
 
-In java each class is a real world task that has real world entities called objects
+In Java each class is a real-world task that has real-world entities called objects
