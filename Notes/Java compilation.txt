@@ -13,4 +13,4 @@ Here is an example :
   which when compiled gives another file called helloworld.class -> successful compilation
   If any mistake occurs then the file will show some error
 
-In Java each class is a real-world task that has real-world entities called objects
+In Java, each class is a real-world task that has real-world entities called objects
