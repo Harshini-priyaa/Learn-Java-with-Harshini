@@ -5,7 +5,7 @@ But to take an input?
    Similarly to instantiate a scanner object => "Scanner read = new Scanner(System.in);"
    Here the "System.in" is specified hence the line object can read an input.
 
-This Scanner class is the easiest way to take an input!!
+This Scanner class is the easiest way to take input!!
 
 This scanner object read can be used with any method to read any kind of variable
 
