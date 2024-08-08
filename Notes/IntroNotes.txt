@@ -1,6 +1,6 @@
 Java was first found by the "SUN MICROSYSTEMS" in the year 1991
 Now Java is owned by the "ORACLE" 
-It is one of the highly secure languages available
+It is one of the highly secure languages available.
 Java can also be used in the development of embedded systems as the versions of Java above 8 have more inbuilt libraries
 Java is a robust and platform-independent language that can work with any OS like Windows, MAC, Linux
 Java is the most used for the backend side in web development as well as it is used in the development of most of the applications
