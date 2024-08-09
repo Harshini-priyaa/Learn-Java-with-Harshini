@@ -1,15 +1,15 @@
-So far on learning something on the basics of Java let's get into an important concept called "VARIABLES"
+So far on learning something about the basics of Java let's get into an important concept called "VARIABLES"
 Variables are just containers to store things in programming!
 Imagine you have 10 chocolates and you want to store them in a fridge your mom gives you a box to put them on
-The box your mom gave is the storage space to store the chocolates you have.
-It is same concept applied in programming to store values!
+The box your mom gave you is the storage space to store the chocolates you have.
+It is the same concept applied in programming to store values!
 Contrasting this example with the concept of variables:
    BOX your Mom gave => Variable 
    chocolates you have => value
 It is something like "chocolate_box = 10"
 There are  something called "DATA TYPES" to declare these variables
-So each and every variable based on its preference has separate data TYPES
-Some of the data types that are supported by Java are:   
+So each variable based on its preference has separate data TYPES
+Some of the data types that Java supports are:   
        TYPE           KEYWORD
     1. Integer        int
     2. Long           long
