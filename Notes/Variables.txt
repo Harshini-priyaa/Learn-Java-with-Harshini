@@ -7,7 +7,7 @@ Contrasting this example with the concept of variables:
    BOX your Mom gave => Variable 
    chocolates you have => value
 It is something like "chocolate_box = 10"
-There are  something called "DATA TYPES" to declare these variables
+There is  something called "DATA TYPES" to declare these variables
 So each variable based on its preference has separate data TYPES
 Some of the data types that Java supports are:   
        TYPE           KEYWORD
@@ -19,5 +19,5 @@ Some of the data types that Java supports are:
     6. Boolean        boolean
     7. String         String
 Declaration of a variable looks like => int num = 10;
-Java has a inbuilt datatype to store string values
+Java has an inbuilt datatype to store string values
 Declaration of a string looks like => string fruit = "apple";
