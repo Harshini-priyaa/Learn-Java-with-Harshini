@@ -1,4 +1,4 @@
-As we have already discussed, we use the "System.out.println()" method to print a line in JAVA.
+As we have already discussed, we use the "System.out.println()" method to print a linein JAVA.
 But to take an input?
    To take input in Java we use a "Scanner" Class 
    We have a syntax to instantiate a object in java => "Method obj_name = new method();"
