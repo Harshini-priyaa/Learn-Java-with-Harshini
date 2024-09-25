@@ -1,4 +1,4 @@
-As we have already discussed, we use the "System.out.println()" method to print a linein JAVA.
+As we have already discussed, we use the "System.out.println()" method to print a line in JAVA.
 But to take an input?
    To take input in Java we use a "Scanner" Class 
    We have a syntax to instantiate a object in java => "Method obj_name = new method();"
@@ -11,4 +11,4 @@ This scanner object read can be used with any method to read any kind of variabl
 
 For integer => nextInt(); [eg: int num  = read.nextInt()]
 
-The readed integer or a variable can be used for performing multiple operations
+The read integer or a variable can be used for performing multiple operations
