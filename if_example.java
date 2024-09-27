@@ -1,4 +1,4 @@
-//This is an if condition that checks for zero division exception 
+//This is a basic if condition that checks for zero division exception 
 
 import java.util.*;
 
