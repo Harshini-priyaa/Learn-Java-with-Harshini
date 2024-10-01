@@ -1,4 +1,4 @@
-
+//A program to find the factorial of a number
 
 class Factorial {
     public static void main(String[] args) {
