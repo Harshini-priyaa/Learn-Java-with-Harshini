@@ -1,6 +1,7 @@
 /* 
   Operators in Java are used for various purposes.
   Java has multiple operators such as Assignment Operators, Arithmetic Operators,Comparison Operators, Logical and Bitwise Operators
+  Each operator designated with different purposes 
  */
 
 public class operators {
