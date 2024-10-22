@@ -12,3 +12,5 @@ This scanner object read can be used with any method to read any kind of variabl
 For integer => nextInt(); [eg: int num  = read.nextInt()]
 
 The read integer or a variable can be used for performing multiple operations
+
+Read input can be used for diffrent purposes 
