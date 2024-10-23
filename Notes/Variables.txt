@@ -21,3 +21,8 @@ Some of the data types that Java supports are:
 Declaration of a variable looks like => int num = 10;
 Java has an inbuilt datatype to store string values
 Declaration of a string looks like => string fruit = "apple";
+
+To create a variable, you must specify the type and assign it a value:
+
+Syntax:
+type variableName = value;
