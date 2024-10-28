@@ -1,3 +1,5 @@
 //The if is a conditional statement which is a basic constraint of any programming language 
 
 This conditional statement is majorly used in cases where some conditions are really to be checked to meet some constraints
+
+The if condition also has an else part in it to check other condition which is not specified in if
