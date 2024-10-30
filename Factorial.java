@@ -1,19 +1,22 @@
-//A program to find the factorial of a number
+public class Solution {
 
-class Factorial {
+    public static int reverse(int x) {
+        int num = 0, rem = 0;
+        while (x != 0) {
+            rem = x % 10;
+            num = (num * 10) + rem;
+            x /= 10;
+        }
+        return num;
+    }
+
+    public static boolean isPalindrome(int x) {
+        if (x < 0) return false;
+        return x == reverse(x);
+    }
+
     public static void main(String[] args) {
-        Scanner obj = new Scanner(System.in);
-        int fact = 1;
-        int num = obj.nextInt();
-        if(n < 0){
-            System.out.println("Negative Number");
-        }
-        else{
-            for(int i = 1; i <=num; ++i){
-                fact *= i;
-            }
-              System.out.println("The factorial is:" + fact);
-        }
-      
+        int x = 121;
+        System.out.println("Is " + x + " a palindrome? " + isPalindrome(x));
     }
 }
