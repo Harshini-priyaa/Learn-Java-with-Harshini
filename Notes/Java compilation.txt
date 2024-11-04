@@ -13,4 +13,7 @@ Here for an example :
   which when compiled gives another file called helloworld.class -> succesful compilation
   If there occures any mistake then the file will show some error
 
-In java each class is a real world task
+
+Java follows the policy of code here and excecute anywhere 
+
+It is one of most important and scalable feature of java

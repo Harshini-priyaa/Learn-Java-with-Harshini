@@ -1,0 +1,2 @@
+There are diffrent datatypes like byte, short, int, long -> each of them assigned to store different quantity of data 
+
