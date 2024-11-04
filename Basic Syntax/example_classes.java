@@ -1,7 +1,7 @@
 /*
-  In java everything is made up of classes, there dont even exist a single entity , code is in the class
-  There is a rule that the file in java should be saved same as that of the class name
-  Here in this I have created a class named "example_classes" where this class will perform functions that we have learnt previously
+  In Java everything is made up of classes, there won't even exist a single entity, code is in the class
+  There is a rule that the file in Java should be saved the same as that of the class name
+  Here in this, I have created a class named "example_classes" where this class will perform functions that we have learnt previously
  */
 
 public class example_classes {

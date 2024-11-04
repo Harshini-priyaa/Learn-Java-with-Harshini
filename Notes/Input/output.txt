@@ -1,14 +1,16 @@
-As we have already discussed to print a line in JAVA we use "System.out.println()" method.
-But to take a input?
-   To take an input in java we do use a "Scanner" Class 
-   We have a syntax to instanciate a object in java => "Method obj_name = new method();"
-   Similarly to instanciate a scanner object => "Scanner read = new Scanner(System.in);"
-   Here the "System.in" is specified hence the line object is capable of reading an input.
+As we have already discussed, we use the "System.out.println()" method to print a line in JAVA.
+But to take an input?
+   To take input in Java we use a "Scanner" Class 
+   We have a syntax to instantiate a object in java => "Method obj_name = new method();"
+   Similarly to instantiate a scanner object => "Scanner read = new Scanner(System.in);"
+   Here the "System.in" is specified hence the line object can read an input.
 
-This Scanner class is the most easiest way to take an input!!
+This Scanner class is the easiest way to take input!!
 
 This scanner object read can be used with any method to read any kind of variable
 
 For integer => nextInt(); [eg: int num  = read.nextInt()]
 
-The readed integer or a variable can be used for performing multiple operations
+The read integer or a variable can be used for performing multiple operations
+
+Read input can be used for diffrent purposes 
