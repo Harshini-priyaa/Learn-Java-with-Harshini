@@ -1,0 +1,15 @@
+what is PL
+why pl
+Why java - OOPS
+class and object
+
+datatypes - int(4),float(4),double(8),char,string
+
+variables - declaration(int a),initialization(int a = 10)
+scope of variables-local,global
+
+Input and Output 
+->class(syntax and header)
+->output(syntax)
+
+how to solve problem - know i/p and o/p and the process then code 
