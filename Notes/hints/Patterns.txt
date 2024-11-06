@@ -1,0 +1,9 @@
+to have pattern we'll have 2 loops
+
+first row -> i == 0
+first column -> j == 0
+last row -> i = n-1
+last col -> j = n-1
+
+left diagonal -> i==j
+right diagonal -> i+j == n-1

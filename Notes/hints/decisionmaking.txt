@@ -1,0 +1,24 @@
+if -> only one condition
+if else -> this or that choice
+if elseif else -> multiple choices
+nested if -> to check all choices
+
+
+
+
+
+
+
+
+
+
+
+
+matrix:
+
+1  2  3  4  5     => row
+6  7  8  9  10
+11 12 13 14 15
+
+||
+column
