@@ -1,0 +1,40 @@
+Main method manipulations:
+
+public static void  main(String[] args){}    
+public static void  main(String[] harshini){} 
+public static void  main(String [] args){} 
+public static void  main(String[]args){} 
+public static void  main(String args[]){} 
+public static void  main(String []args){} 
+public static void  main(String args){}  // compiles but will not execute
+public static void  main(int[ ]args){}  //vaild for compilation but invalid for execution
+public static void  Main(String[] args){}  //will throw error
+public static Void  main(String[] args){}  //void is keyword
+public  void  main(String[] args){}  //valid for compilation but jvm will not execute
+static public void  main(String[] args){}  //100% correct code it will work fine as both public and static are access modifiers
+private static void  main(String[] args){}  //compiles fine but jvm will not execute
+public static void  main(String[] args,int a){}  //valid for compilation but jvm will not execute
+  public static void  main(String… args){}  // compiles fine and executes fine
+public static void  main(String… args,int a){} //compilation error as var-args parameter must be last parameter of a method
+public static void  main(int a, String… args){}  //valid code
+public static void  main(int… a,String… args){}  //C.E
+public static void  main(String[][][][][][][][][][][][][][][][][][][][][][][][][][]][][]][][][][][]][][][][][][][][][][][][][][][][][][][] args){}   //valid for compilation but JVM throws error
+public final static void  main(String[] args){} //correct code but method cant have children
+public final strictfp static void  main(String[] args){}    //valid complies with 1 warning but executes
+public final strictfp synchronization static void  main(String[] args){}            
+                                       
+  public final strictfp synchronization static -> all are access modifiers so places can be changed01.3
+
+
+
+
+
+
+
+
+
+
+   
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
