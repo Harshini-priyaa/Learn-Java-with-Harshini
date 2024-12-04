@@ -2,7 +2,7 @@
 //by default all the properties are public
 //private cant be accesses outside the class
 //to access them we use getters and setters
-
+//Reflection API -> java.lang.reflect -> we can access private members of a class
 
 //Learn-> Setters and Getters
 class Dog{

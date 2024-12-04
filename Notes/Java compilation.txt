@@ -14,3 +14,34 @@ Here is an example :
   If any mistake occurs then the file will show some error
 
 In java each class is a real world task
+
+
+from JDK 1.8 java programs can be compiled with this single command -> java filename.java
+
+A file can have multiple classes but only one should be public
+Number of byte codes is dependent on the number of classes 
+
+$ sign is not recommened to write class name as when we use nested class compiler uses $ symbol
+
+
+ex: //generates 2 byte code 
+
+file name -> Hello.java
+byte code -> Hello.class,  Hello$World.class
+
+public class Hello {
+  class world{
+
+  }
+} 
+
+if compiler(lexical analyzer at time of tokenizing ) sees //, /*, */ /**. **/ -> removes these lines
+
+
+there are 6 phases of compiler 
+lexical analyzer  -> Buffering[storage],tokenizing[split the code in diffrent chunks]
+Syntax analyzer
+Semantic analyzer
+Intermediate code generation
+Code Optimization
+Code generation

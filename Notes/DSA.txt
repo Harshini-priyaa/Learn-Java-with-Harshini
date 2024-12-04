@@ -1,0 +1,11 @@
+All DSA in java can be easily used from collection framework[automated DSA]
+
+but mannually doing is good
+
+collection is very important
+
+available in java.lang.collection
+
+    collection 
+Maps           set
+

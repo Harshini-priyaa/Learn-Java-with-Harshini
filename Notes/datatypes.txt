@@ -1,3 +1,14 @@
 There are diffrent datatypes like byte, short, int, long -> each of them assigned to store different quantity of data 
  
 These are all some basic datatypes
+
+
+Primitive data types -> Wrapper CLasss (from JDK 1.8)
+1.byte -> Byte
+2.short ->Short
+3. int -> Integer
+4. long ->Long
+5. float -> Float
+8. double -> double
+6. char -> Character
+7. boolean -> Boolean

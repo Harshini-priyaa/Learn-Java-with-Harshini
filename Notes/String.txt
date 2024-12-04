@@ -1,0 +1,17 @@
+
+
+
+java.lang.String -> full package 
+
+javap java.lang.String -> to find the methods in a package
+
+
+javap -<> a command to fing all the methods
+
+
+Difference b/w -> string.replace() and string.replaceAll()
+
+replaceAll()method supports regular expression
+replace() method does not support regular expression
+ 
+regular expression [RE concept in TOC] -> called as RegEx in java
