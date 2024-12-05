@@ -3,3 +3,7 @@ garbage collector
 go to google -> topic docs java
 
 ex: string docs java -> oracle place to learn authentic
+
+books for -> the complete referance by  Herber Schildt
+             -> Khalid Mughal
+             -> Kathy Sierra
