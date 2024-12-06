@@ -1,3 +1,5 @@
+//this is for oracle sql server connection it will change for other db example- MySql 
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
