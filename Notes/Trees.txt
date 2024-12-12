@@ -1,0 +1,3 @@
+Trees are the non-linear data structur.
+It has nodes and edges.
+The starting point is termed as root
