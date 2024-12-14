@@ -1,3 +1,8 @@
 Trees are the non-linear data structur.
 It has nodes and edges.
 The starting point is termed as root
+
+A tree can be traversed in 3 ways:
+  1. Pre-order traversal
+  2. In- order Traversal
+  3. Post-order traversal 
